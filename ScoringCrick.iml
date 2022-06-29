@@ -7,8 +7,33 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="javafx-swt" level="project" />
-    <orderEntry type="library" name="controlfx_jar_files-v11" level="project" />
-    <orderEntry type="library" exported="" name="controlsfx-11.1.0" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/controlfx_jar_files-v11/controlsfx-11.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/mysql-connector-java-8.0.26.zip!/mysql-connector-java-8.0.26/src/build/java" />
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/mysql-connector-java-8.0.26.zip!/mysql-connector-java-8.0.26/src/demo/java" />
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/mysql-connector-java-8.0.26.zip!/mysql-connector-java-8.0.26/src/generated/java" />
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/mysql-connector-java-8.0.26.zip!/mysql-connector-java-8.0.26/src/legacy/java" />
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/mysql-connector-java-8.0.26.zip!/mysql-connector-java-8.0.26/src/main/core-api/java" />
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/mysql-connector-java-8.0.26.zip!/mysql-connector-java-8.0.26/src/main/core-impl/java" />
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/mysql-connector-java-8.0.26.zip!/mysql-connector-java-8.0.26/src/main/protocol-impl/java" />
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/mysql-connector-java-8.0.26.zip!/mysql-connector-java-8.0.26/src/main/user-api/java" />
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/mysql-connector-java-8.0.26.zip!/mysql-connector-java-8.0.26/src/main/user-impl/java" />
+          <root url="jar://$MODULE_DIR$/../../Lenovo-System-Files/ScoreBoard-Project-master (1)/ScoreBoard-Project-master/config/mysql-connector-java-8.0.26.zip!/mysql-connector-java-8.0.26/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="lib1" level="project" />
   </component>
 </module>

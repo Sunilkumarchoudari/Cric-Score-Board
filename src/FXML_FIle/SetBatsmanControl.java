@@ -1,6 +1,7 @@
 package FXML_FIle;
 
-import ClassFile.*;
+import ClassFile.ScoreBoard;
+import ClassFile.Team;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;

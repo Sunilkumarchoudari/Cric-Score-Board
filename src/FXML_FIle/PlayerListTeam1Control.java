@@ -2,8 +2,6 @@ package FXML_FIle;
 
 import ClassFile.Player;
 import ClassFile.Team;
-import impl.org.controlsfx.autocompletion.AutoCompletionTextFieldBinding;
-import impl.org.controlsfx.skin.AutoCompletePopup;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
